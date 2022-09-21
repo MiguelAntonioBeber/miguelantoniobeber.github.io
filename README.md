@@ -10,7 +10,8 @@ Atualmente, estou estudando HTML5 e CSS3 com o Prof. Guanabara, estou aprendendo
 * [Curso de HTML5 e CSS3 Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s)
 * [Curso de HTML5 e CSS3 Módulo 3 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
 * [Curso de JavaScript e ECMAScript](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
+<<<<<<< HEAD
 
 <img src="images/732190.png" width="200">
-<img src="images/732212.png" width="200">
-<img src="images/5968292.png" width="200">
+=======
+>>>>>>> 00372c4f302e782b06106994c0067a76ae7a598e
