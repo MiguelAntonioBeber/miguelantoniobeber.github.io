@@ -23,14 +23,21 @@ Você também pode acessar alguns dos meu projetos como:
 
 * [Projeto-Cordel](https://MiguelAntonioBeber.github.io/Projeto-Cordel)
 * [Projeto-Android](https://MiguelAntonioBeber.github.io/projeto-android)
+<br><br><br><br><br><br>
+
+<img align="right" src="images/5968292.png" width="150">
+
+## Minhas Redes Sociais
+
+* [Youtube](https://www.youtube.com/channel/UCJA3h1010jArpfM-9qmgIow/featured)
+* [Instagram](https://instagram.com/miguelacapybara)
+* [Facebook](https://facebook.com/miguelacapivara)
+* [Github](https://www.github.com/MiguelAntonioBeber)
+
 <br><br>
 
-## Meu perfil no GitHub
-* [GitHub](https://github.com/MiguelAntonioBeber)
-<br><br><br>
+<p>Acho que isso é tudo, irei atualizando este URL com o tempo, até!</p>
 
-
-<p align="right">MiguelAntonioBeber <img align="right" src="images/5968292.png" width="22"></p>
 
 
 
