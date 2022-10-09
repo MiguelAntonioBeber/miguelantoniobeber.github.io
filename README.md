@@ -21,8 +21,10 @@ Atualmente, estou estudando HTML5 e CSS3 com o Prof. Guanabara, estou aprendendo
 ## Meus Projetos
 Você também pode acessar alguns dos meu projetos como:
 
-* [Projeto-Cordel](https://MiguelAntonioBeber.github.io/Projeto-Cordel)
+* [Projeto-Cordel](https://MiguelAntonioBeber.github.io/projeto-cordel)
 * [Projeto-Android](https://MiguelAntonioBeber.github.io/projeto-android)
+* [Projeto-Social](https://MiguelAntonioBeber.github.io/projeto-social)
+* [Projeto-Login](https://MiguelAntonioBeber.github.io/projeto-login)
 <br><br><br><br><br><br>
 
 <img align="right" src="images/5968292.png" width="150">
